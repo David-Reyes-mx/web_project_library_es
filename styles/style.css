@@ -257,11 +257,13 @@
 }
 
 .person_name_mitchell {
-  /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
+  bottom: 82px;
+  left: 142px;
 }
 
 .person_name_tarter {
-  /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
+  top: 79px;
+  left: 159px;
 }
 
 .person__image {
